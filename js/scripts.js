@@ -13,10 +13,13 @@ $(document).ready(function() {
     console.log(userSelection5);
       
     if(userSelection1 === "option1" && userSelection2 === "option2" && userSelection3 != "option2") {
+      $(".answer").hide();
       $("#answer-python").show();
     } else if(userSelection3 === "option2" && userSelection4 === "option2" && userSelection5 != "option1") {
+      $(".answer").hide();
       $("#answer-go").show();
     } else {
+      $(".answer").hide();
       $("#answer-javascript").show();
     }
      
