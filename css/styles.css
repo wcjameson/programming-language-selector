@@ -28,6 +28,7 @@ border-radius: 12px;
 
 .header {
   font-family: monospace;
+  padding-top: 5px;
 }
 
 #comic-sans {

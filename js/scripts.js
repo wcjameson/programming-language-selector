@@ -17,6 +17,8 @@ $(document).ready(function() {
       $(".answer").hide();
       $("#answer-javascript").show();
     }
-     
+    });
+    $("#retry-button").click(function() {
+      location.reload(true);
   });
 });
