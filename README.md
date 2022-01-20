@@ -22,8 +22,7 @@ https://github.com/wcjameson/programming-language-selector
 
 * Alternatively you can clone the repository to your computer from the terminal by using the following commands:
 * git clone https://github.com/wcjameson/programming-language-selector.git
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* Open the index.html file in your browser of choice.
 
 ## Known Bugs
 
